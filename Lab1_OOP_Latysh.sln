@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.1_OOP_Latysh", "Lab1_OOP_Latysh\Lab1.1_OOP_Latysh.csproj", "{37FF99D9-379E-40AB-B73C-7A562F91D367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.2_OOP_Latysh", "Lab1.2_OOP_Latysh\Lab1.2_OOP_Latysh.csproj", "{77717B95-E4D2-487C-8A40-BD71F8FA79FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FF99D9-379E-40AB-B73C-7A562F91D367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FF99D9-379E-40AB-B73C-7A562F91D367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FF99D9-379E-40AB-B73C-7A562F91D367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FF99D9-379E-40AB-B73C-7A562F91D367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77717B95-E4D2-487C-8A40-BD71F8FA79FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77717B95-E4D2-487C-8A40-BD71F8FA79FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77717B95-E4D2-487C-8A40-BD71F8FA79FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77717B95-E4D2-487C-8A40-BD71F8FA79FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55249B70-4433-497B-B653-0CFA2D80ACE4}
+	EndGlobalSection
+EndGlobal
